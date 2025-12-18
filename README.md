@@ -1,6 +1,6 @@
 # Trabalho Prático – MVC em Java
 
-Projeto acadêmico desenvolvido em **Java**, no **Apache NetBeans**, com o objetivo de aplicar os conceitos de **Arquitetura de Software** e **Padrões de Projeto**, conforme as aulas 23 e 24.
+Projeto acadêmico desenvolvido em **Java**, no **Apache NetBeans**, com o objetivo de aplicar os conceitos de **Arquitetura de Software** e **Padrões de Projeto**, conforme as aulas 23 e 24 da disciplina de Programação Orientada a Objeto da Universidade Federal de Roraima, ministrada pelo professor Jean Bertrand.
 
 ## Arquitetura
 A aplicação segue o padrão **MVC (Model–View–Controller)**:
